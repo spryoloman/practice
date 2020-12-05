@@ -18,4 +18,4 @@ const a = prompt('What was your last watched film?', ''),
 personalMovieDB.movies[a] = b;
 personalMovieDB.movies[c] = d;
 
-consolele.log(personalMovieDB);
+console.log(personalMovieDB);
